@@ -15,6 +15,7 @@ body {
   color: rgb(255, 255, 255);
 }
 
-#home {
+#home,
+#contact {
   min-height: calc(100vh - 56px);
 }
